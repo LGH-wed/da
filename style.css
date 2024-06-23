@@ -1,0 +1,21 @@
+body {
+  background-color: blanchedalmond;
+}
+.mc {
+  margin: 0 auto;
+  max-width: 800px;
+  background-color: azure;
+}
+.mc h1 {
+  font-size: 32px;
+}
+.mc p {
+  font-size: 20px;
+  line-height: 1.4;
+}
+.mc {
+  text-align: center;
+}
+.mc img {
+  text-align: center;
+}
